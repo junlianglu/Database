@@ -12,6 +12,3 @@ This project is one of the course projects from Databases Design course at UC Be
 ### Skills to learn
 - Java
 - Relational Databases
-
-![preview](img/1.png)
-![preview](img/2.png)
